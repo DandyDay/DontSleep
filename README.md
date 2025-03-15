@@ -1,6 +1,6 @@
 # Don't Sleep
 
-🏆 **서울대학교 "소프트웨어 개발의 원리 및 실습 (M1522.002400)" 팀 프로젝트**
+🚀 **서울대학교 "소프트웨어 개발의 원리 및 실습 (M1522.002400)" 팀 프로젝트**
 
 ## 🎮 데모 플레이
 
@@ -33,7 +33,10 @@
 📌 **결과:**
 게임 내 상호작용 시스템이 직관적으로 개선되어 플레이어 경험 향상.
 
-![인터랙션 예시](dummy) ![인터랙션 예시](dummy)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/62125080-bf1a-4b5d-a792-068f0c81c3db" alt="인터랙션 이미지 (전)" style="width: 45%;"/>
+  <img src="https://github.com/user-attachments/assets/b7016ce1-7f50-4ac0-adac-67b88a5c891e" alt="인터랙션 이미지 (후)" style="width: 45%;"/>
+</div> 
 
 ---
 
