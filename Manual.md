@@ -15,8 +15,8 @@
 화면 정가운데에 있는 포인터를 물체에 두고, <b>[마우스 좌클릭]</b>을 하면 물체와 <b>상호작용</b>할 수 있습니다.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/62125080-bf1a-4b5d-a792-068f0c81c3db" alt="이미지 1" style="width: 45%;"/>
-  <img src="https://github.com/user-attachments/assets/b7016ce1-7f50-4ac0-adac-67b88a5c891e" alt="이미지 2" style="width: 45%;"/>
+  <img src="https://github.com/user-attachments/assets/62125080-bf1a-4b5d-a792-068f0c81c3db" alt="이미지 1" style="width: 49%;"/>
+  <img src="https://github.com/user-attachments/assets/b7016ce1-7f50-4ac0-adac-67b88a5c891e" alt="이미지 2" style="width: 49%;"/>
 </div> 
 
 ### 2. 게임 진행
@@ -26,8 +26,8 @@
 시간은 0시부터 7시까지 진행되며, 이상현상 판단에 <b>성공할 시 1시간 뒤</b>로, <b>실패할 시 1시간 전</b>으로 이동합니다. 플레이어는 이 시간을 침실에 있는 시계와 거실에 있는 전자시계를 통해 확인할 수 있습니다. 플레이어는 <b>00시에 잠들어 07시에 잠에서 깨어날 때 까지</b> 꿈에서 이상현상을 찾아야 합니다.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/a6649ce5-d8e4-48f5-9a9b-365a28127342" alt="이미지 1" style="width: 45%;"/>
-  <img src="https://github.com/user-attachments/assets/005cf872-c7f0-41f6-835f-69c8a5ffbe58" alt="이미지 2" style="width: 45%;"/>
+  <img src="https://github.com/user-attachments/assets/a6649ce5-d8e4-48f5-9a9b-365a28127342" alt="이미지 1" style="width: 49%;"/>
+  <img src="https://github.com/user-attachments/assets/005cf872-c7f0-41f6-835f-69c8a5ffbe58" alt="이미지 2" style="width: 49%;"/>
 </div> 
 
 아침 7시가 되어 잠에서 깨어나는 것에 성공하게 되면, <b>게임 클리어</b>!
