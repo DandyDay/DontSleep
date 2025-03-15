@@ -6,11 +6,11 @@
 
 <b>[W] [A] [S] [D]</b>로 상하좌우 이동, <b>[스페이스바]</b>로 점프할 수 있습니다.
 
-<img src="https://github.com/user-attachments/assets/1e6ec3a0-2481-4381-9888-51dbff4416be" alt="조작법 이미지 1" style="width: 100%;"/>
+<img src="https://github.com/user-attachments/assets/1e6ec3a0-2481-4381-9888-51dbff4416be" alt="조작법 이미지 1" style="width: 98%;"/>
 
 침대의 근처에서 <b>[F]</b>로 잠에 들거나, <b>[G]</b>로 육체를 깨울 수 있습니다.
 
-<img src="https://github.com/user-attachments/assets/63803611-3d65-4383-80cf-8fc025a9578b" alt="조작법 이미지 2" style="width: 100%;"/>
+<img src="https://github.com/user-attachments/assets/63803611-3d65-4383-80cf-8fc025a9578b" alt="조작법 이미지 2" style="width: 98%;"/>
 
 화면 정가운데에 있는 포인터를 물체에 두고, <b>[마우스 좌클릭]</b>을 하면 물체와 <b>상호작용</b>할 수 있습니다.
 
@@ -32,4 +32,4 @@
 
 아침 7시가 되어 잠에서 깨어나는 것에 성공하게 되면, <b>게임 클리어</b>!
 
-<img src="https://github.com/user-attachments/assets/90a63348-c4ed-468b-9615-c1241308c6b1" alt="게임 클리어 이미지" style="width: 100%;"/>
+<img src="https://github.com/user-attachments/assets/90a63348-c4ed-468b-9615-c1241308c6b1" alt="게임 클리어 이미지" style="width: 98%;"/>
